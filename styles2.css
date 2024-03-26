@@ -1,0 +1,18 @@
+
+ul li:first-child {
+    font-weight: bolder;
+    color:brown
+}
+/*Here I added brown color to the first child */
+
+ul li:nth-child(2) {
+    color:blue;
+    font: weight 900px;
+}
+/*I am adding nth child (2) here and it changes text to a blue color*/
+
+ul li:nth-child(3) {
+    color:blueviolet;
+    font-weight: 900;
+}
+/*I added blueviolet text to nth-child(3) */
